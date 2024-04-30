@@ -1,0 +1,6 @@
+ Load a local file into a FileBox
+ Load a file from a URL into a FileBox
+ Load a file from a Buffer into a FileBox
+ Convert a Base64 string to a FileBox
+ Save a FileBox to a file
+ Stream a FileBox to a writable stream
